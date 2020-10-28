@@ -18,7 +18,7 @@
 
 - [x] HTML & CSS setup
 - [x] Add project content
-- [ ] Toggle theme with JavaScript
+- [x] Toggle theme with JavaScript
 - [ ] LocalStorage to save user data
 - [ ] Code Review
 
@@ -37,4 +37,7 @@ The colors on the right side are called ‘On’ colors. They are applied to tex
 - [Google Fonts](https://fonts.google.com/)
 - [Hero Patterns](https://www.heropatterns.com/)
 - [Mozilla CSS Variables](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties) - using CSS custom properties
+- [Mozilla- Document Element](https://developer.mozilla.org/en-US/docs/Web/API/Document/documentElement)
 - [Undraw Illustrations](https://undraw.co/illustrations)
+- [W3Schools - Change Event](https://www.w3schools.com/jsref/event_onchange.asp)
+- [W3Schools - Switch](https://www.w3schools.com/howto/howto_css_switch.asp)
