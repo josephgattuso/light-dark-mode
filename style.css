@@ -184,24 +184,24 @@ p {
 
 /* Dark Mode Toggle */
 .theme-switch-wrapper {
-  display: flex;
   align-items: center;
-  z-index: 100;
+  display: flex;
   position: fixed;
   right: 25px;
   top: 30px;
+  z-index: 100;
 }
 
 .theme-switch-wrapper span {
-  margin-right: 10px;
   font-size: 1rem;
+  margin-right: 10px;
 }
 
 .toggle-text {
-  position: relative;
-  top: -4px;
-  right: 5px;
   color: var(--on-background);
+  position: relative;
+  right: 5px;
+  top: -4px;
 }
 
 .theme-switch {
