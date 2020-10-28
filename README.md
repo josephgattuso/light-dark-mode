@@ -5,9 +5,8 @@
 ![Pull Requests](https://img.shields.io/badge/pull_requests-welcome-blue?style=flat-square)
 ![Twitter Follow](https://img.shields.io/twitter/follow/joeetuso?style=flat-square)
 
-> Build Light and Dark Themes for a GItHub JavaScript. Loosely based on [Material Design Guidelines](https://material.io/design/guidelines-overview) by Google.
-
-<!-- ## 🚀 Quick start -->
+> Build Light and Dark Themes for a GItHub JavaScript.
+> Loosely based on [Material Design Guidelines](https://material.io/design/guidelines-overview) by Google.
 
 ## 🎯 Goals for this project
 
@@ -18,14 +17,14 @@
 ## 📖 User Stories
 
 - [x] HTML & CSS setup
-- [ ] Add project content
+- [x] Add project content
 - [ ] Toggle theme with JavaScript
 - [ ] LocalStorage to save user data
 - [ ] Code Review
 
 ## 🎨 Color Palette
 
-![Colors](./img/color-palette.jpg)
+![Colors](img/color-palette.jpg)
 
 > Dark Theme Baseline Palette
 
@@ -33,6 +32,9 @@ The colors on the right side are called ‘On’ colors. They are applied to tex
 
 ## 🌐 Resources
 
+- [Dark Mode Colors How-to Guide](https://blog.prototypr.io/how-to-design-a-dark-theme-for-your-android-app-3daeb264637)
+- [FontAwesome Icons](https://fontawesome.com/icons?d=gallery&q=close&m=free)
+- [Google Fonts](https://fonts.google.com/)
 - [Hero Patterns](https://www.heropatterns.com/)
 - [Mozilla CSS Variables](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties) - using CSS custom properties
-- [Dark Mode Colors How-to Guide](https://blog.prototypr.io/how-to-design-a-dark-theme-for-your-android-app-3daeb264637) - The Ultimate Guide on Designing a Dark Theme For Your Android App
+- [Undraw Illustrations](https://undraw.co/illustrations)
